@@ -6,17 +6,17 @@ I build real-world applications using modern web tech and AI. Here's a curated s
 
 ## 🚀 Featured Projects
 
-### 🎧 You‑Listen App
-**Technologies:** React, Firebase, Node.js  
+### 🎧 You‑Listen
+**Technologies:** React, Vercel, Render, Node.js  
 A music-sharing and streaming platform with realtime syncing, user playlists, and authentication. (Repo: `you-listen-app`)
 
-### 🎵 You‑Listen
+### 🎵 You‑Listen-App
 **Technologies:** React Native, Expo  
 A companion mobile app to You‑Listen App, enabling on-the-go music sharing and playlist management via mobile devices.
 
 ### 🤖 AI‑DSA
-**Technologies:** Python, OpenAI API, CLI  
-A command-line tool that uses GPT models to generate algorithm solutions, full code templates, and step-by-step explanations for data structure & algorithm problems.
+**Technologies:** Next js, React js, Node, Express, OpenAI API, Microservices, Postgres, MongoDB
+A DSA solving platform with AI-guidance assistance to help you with your weaknesses and getting better in faster time.
 
 ### 💬 Coding‑Social  
 **Technologies:** MERN Stack (MongoDB, Express, React, Node.js)  
