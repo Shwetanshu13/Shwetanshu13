@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I’m Shwetanshu ([@Shwetanshu13](https://github.com/Shwetanshu13))
 
-<!--
-**Shwetanshu13/Shwetanshu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build real-world applications using modern web tech and AI. Here's a curated showcase of my work:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎧 You‑Listen App
+**Technologies:** React, Firebase, Node.js  
+A music-sharing and streaming platform with realtime syncing, user playlists, and authentication. (Repo: `you-listen-app`)
+
+### 🎵 You‑Listen
+**Technologies:** React Native, Expo  
+A companion mobile app to You‑Listen App, enabling on-the-go music sharing and playlist management via mobile devices.
+
+### 🤖 AI‑DSA
+**Technologies:** Python, OpenAI API, CLI  
+A command-line tool that uses GPT models to generate algorithm solutions, full code templates, and step-by-step explanations for data structure & algorithm problems.
+
+### 💬 Coding‑Social  
+**Technologies:** MERN Stack (MongoDB, Express, React, Node.js)  
+A developer community platform featuring user posts, comments, likes, authentication, and real-time notifications.
+
+### 💸 Spendwise  
+**Technologies:** React, Node.js, Express, MongoDB, Firebase  
+An intuitive expense tracking web app with charts, categories, and user authentication to help manage your finances.
+
+### 🍲 Your‑Recipe  
+**Technologies:** Nextjs, PostgreSQL  
+A recipe-sharing web platform where users can post, search, and save cooking recipes with community reviews.
+
+### 🎂 BirthdayReminder  
+**Technologies:** Node.js, Express  
+A simple utility app that sends birthday reminders via email, with CRUD capabilities to manage contacts and dates.
+
+---
+
+## 🧠 Tech Stack  
+
+- **Frontend:** React, React Native, Expo  
+- **Backend:** Node.js, Express, Python  
+- **Databases:** MongoDB, Firebase (Realtime, Auth), PostgreSQL  
+- **AI/ML:** OpenAI API  
+- **Deployment & Hosting:**  Vercel, Render
+
+---
+
+## 📈 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Shwetanshu13&layout=compact&theme=radical) 
+
+---
+
+## 🤝 Get in Touch  
+- 💼 LinkedIn: [shwetanshu-sinha-368726280](https://www.linkedin.com/in/shwetanshu-sinha-368726280/)  
+- 📫 Email: shwetanshusinha13@gmail.com 
+- 🐦 Twitter: [@SSinha63408](https://x.com/SSinha63408)
+
+---
+
+## 🎯 Goals & Interests  
+- Building open-source tools around AI and automation.  
+- Scaling full-stack apps from MVP to production-ready.  
+- Mentoring others in web development and AI integration.
+
+---
+
+Thanks for visiting! Let’s connect, collaborate, and create something awesome. 🚀  
