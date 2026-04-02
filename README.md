@@ -63,7 +63,7 @@
 ---
 
 ### ⚡ Justoo (Productivity / Utility Platform)
-- Built as a minimal and efficient tool for solving focused user problems
+- Local Blinkit like application for the college
 - Emphasis on **clean UI, speed, and usability**
 - Designed with a **practical, real-world usage mindset**
 
@@ -77,23 +77,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetanshu13&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetanshu13&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - 🌐 Portfolio: https://shwetanshu.vercel.app/
-- 💼 LinkedIn: (add your link here)
-- 📧 Email: (add your email here)
+- 💼 LinkedIn: https://www.linkedin.com/in/shwetanshu13/
+- 📧 Email: shwetanshusinha13@gmail.com
 
 ---
 
